@@ -1,0 +1,26 @@
+﻿{
+  "version": "1.0.0-*",
+  "language": "English",
+  "authors": [ "Darryn Patterson" ],
+  "copyright": "Copyright 2016",
+  "title": "AspNetCoreNoCache",
+  "description": "",
+  "projectUrl": "",
+  "packOptions": {
+    "licenseUrl": "",
+    "tags": [ "Cache" ],
+    "owners": [ "Darryn Patterson" ],
+    "summary": "",
+    "repository": {
+      "type": "git",
+      "url": ""
+    }
+  },
+  "dependencies": {
+    "NETStandard.Library": "1.6.0",
+    "Microsoft.AspNetCore.Http.Abstractions": "1.0.0"
+  },
+  "frameworks": {
+    "net461": {}
+  }
+}
