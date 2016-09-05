@@ -4,16 +4,16 @@
   "authors": [ "Darryn Patterson" ],
   "copyright": "Copyright 2016",
   "title": "AspNetCoreNoCache",
-  "description": "",
-  "projectUrl": "",
+  "description": "AspNetCoreNoCache is an ASP.NET Core solution which ensures that http responses are not cached.",
+  "projectUrl": "https://github.com/DarrynPatterson/AspNetCoreNoCache",
   "packOptions": {
-    "licenseUrl": "",
+    "licenseUrl": "https://github.com/DarrynPatterson/AspNetCoreNoCache/blob/master/LICENSE",
     "tags": [ "Cache" ],
     "owners": [ "Darryn Patterson" ],
-    "summary": "",
+    "summary": "AspNetCore middleware which ensures that http responses are not cached.",
     "repository": {
       "type": "git",
-      "url": ""
+      "url": "https://github.com/DarrynPatterson/AspNetCoreNoCache"
     }
   },
   "dependencies": {
